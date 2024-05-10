@@ -1,26 +1,24 @@
 const express = require('express');
-const http = require('http');
-const { Server } = require('socket.io');
-require('dotenv').config();
-
+const cors = require('cors')
 const app = express();
-const server = http.createServer(app);
-const io = new Server(server);
+const commonEndpoint = require('./common/index.js');
+const registerEndpoint = require('./register/index.js');
+const loginEndpoint = require('./login/index.js');
+const bodyParser = require('body-parser');
 
-io.on('connection', (socket) => {
-  console.log(socket.id, ' connected');
+const corsOptions = {
+  origin: '*',
+  methods: ['POST'],
+};
 
-  socket.on('disconnect', () => {
-    console.log(socket.id, ' disconnected');
-  });
+app.use(cors(corsOptions));
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
+app.use('/app', commonEndpoint);
+app.use('/register', registerEndpoint);
+app.use('/login', loginEndpoint);
 
-  socket.on('chat message', (msg) => {
-    console.log('message:', msg);
-    io.emit('chat message', msg);
-  });
-});
-
-const PORT = process.env.PORT || 3000;
-server.listen(PORT, () => {
+const PORT = 3000;
+app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });

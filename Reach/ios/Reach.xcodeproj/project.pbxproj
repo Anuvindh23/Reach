@@ -14,6 +14,28 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Reach-ReachTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Reach-ReachTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		B64C52A83A044C31A3475A5E /* aptos-black-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 00A9AB2D9BFF425BAF07D638 /* aptos-black-italic.ttf */; };
+		80B8996A4BFE4D02B994DA03 /* aptos-black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9AA87671BF9D474596F8D7DC /* aptos-black.ttf */; };
+		A1BB09D437714059A6038DCF /* aptos-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D8F3855D12C94048B4410791 /* aptos-bold.ttf */; };
+		17F4F8A9C1F34435A3FD0AD8 /* aptos-extrabold-italic 2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 50139E320A5244B59A05723B /* aptos-extrabold-italic 2.ttf */; };
+		8E48D07A8CF244F6B0752F34 /* aptos-extrabold-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1852D5BB96684D7F87B9752F /* aptos-extrabold-italic.ttf */; };
+		F710768F96A049EFA2F85C89 /* aptos-extrabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1BB3B4A56DB94D87A7B2E657 /* aptos-extrabold.ttf */; };
+		416E0A73FF9641509A300DF4 /* aptos-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B04F31F879441698F2FF22E /* aptos-italic.ttf */; };
+		B365147A44F145438DBCCAB8 /* aptos-light-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BF84F89A3E0042EE9E977169 /* aptos-light-italic.ttf */; };
+		428267859E0F4BA5B5A4E6F1 /* aptos-light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA4F26EB83264043885096E8 /* aptos-light.ttf */; };
+		937BB75F3E454BA1BC305AB5 /* aptos-semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1F75E3D5FC2471CBF8B6282 /* aptos-semibold.ttf */; };
+		3B31AF8A87A84247B209D040 /* aptos.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 628DBB7EA1E14F2C9C6195DD /* aptos.ttf */; };
+		ABC801DEBED7466A92468F6C /* ._aptos-black-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8EAACBA5CEF844ED98D0718A /* ._aptos-black-italic.ttf */; };
+		8FD21019C21F40F4B3307810 /* ._aptos-black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6A2762600AD042A49C9D93A2 /* ._aptos-black.ttf */; };
+		ADBCD2583B674277BF89E2DE /* ._aptos-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ECDDDA24E9A34A91A50C51E1 /* ._aptos-bold.ttf */; };
+		D04734B303334ABEB3997D8C /* ._aptos-extrabold-italic 2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3FA4866F0B994022AB111699 /* ._aptos-extrabold-italic 2.ttf */; };
+		5A1FE2D66DF9410C86FAF48C /* ._aptos-extrabold-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E25BDF05F495456BB060FAFE /* ._aptos-extrabold-italic.ttf */; };
+		1FB1D3ADC3A14D549C4087CC /* ._aptos-extrabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2498800030F148CE83847AAC /* ._aptos-extrabold.ttf */; };
+		D3A4481585CD479E89423FA5 /* ._aptos-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 567558958E054AB798C90209 /* ._aptos-italic.ttf */; };
+		D7F6520A24294B61BF0A045C /* ._aptos-light-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55ADA8705C024F41BFA5B9B1 /* ._aptos-light-italic.ttf */; };
+		501BCF976392404D821CB056 /* ._aptos-light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A88D0B2B4E69434192C9B0D9 /* ._aptos-light.ttf */; };
+		00987CD6491440F58E6A88FC /* ._aptos-semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A10BDC9B03FB4774981B58C2 /* ._aptos-semibold.ttf */; };
+		A594CA7ACAE24AAE8735D6F0 /* ._aptos.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F02B6CD0D83466FACAB8519 /* ._aptos.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +66,28 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Reach/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Reach-ReachTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reach-ReachTests.release.xcconfig"; path = "Target Support Files/Pods-Reach-ReachTests/Pods-Reach-ReachTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		00A9AB2D9BFF425BAF07D638 /* aptos-black-italic.ttf */ = {isa = PBXFileReference; name = "aptos-black-italic.ttf"; path = "../assets/fonts/aptos-black-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9AA87671BF9D474596F8D7DC /* aptos-black.ttf */ = {isa = PBXFileReference; name = "aptos-black.ttf"; path = "../assets/fonts/aptos-black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8F3855D12C94048B4410791 /* aptos-bold.ttf */ = {isa = PBXFileReference; name = "aptos-bold.ttf"; path = "../assets/fonts/aptos-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		50139E320A5244B59A05723B /* aptos-extrabold-italic 2.ttf */ = {isa = PBXFileReference; name = "aptos-extrabold-italic 2.ttf"; path = "../assets/fonts/aptos-extrabold-italic 2.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1852D5BB96684D7F87B9752F /* aptos-extrabold-italic.ttf */ = {isa = PBXFileReference; name = "aptos-extrabold-italic.ttf"; path = "../assets/fonts/aptos-extrabold-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1BB3B4A56DB94D87A7B2E657 /* aptos-extrabold.ttf */ = {isa = PBXFileReference; name = "aptos-extrabold.ttf"; path = "../assets/fonts/aptos-extrabold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2B04F31F879441698F2FF22E /* aptos-italic.ttf */ = {isa = PBXFileReference; name = "aptos-italic.ttf"; path = "../assets/fonts/aptos-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BF84F89A3E0042EE9E977169 /* aptos-light-italic.ttf */ = {isa = PBXFileReference; name = "aptos-light-italic.ttf"; path = "../assets/fonts/aptos-light-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA4F26EB83264043885096E8 /* aptos-light.ttf */ = {isa = PBXFileReference; name = "aptos-light.ttf"; path = "../assets/fonts/aptos-light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E1F75E3D5FC2471CBF8B6282 /* aptos-semibold.ttf */ = {isa = PBXFileReference; name = "aptos-semibold.ttf"; path = "../assets/fonts/aptos-semibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		628DBB7EA1E14F2C9C6195DD /* aptos.ttf */ = {isa = PBXFileReference; name = "aptos.ttf"; path = "../assets/fonts/aptos.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8EAACBA5CEF844ED98D0718A /* ._aptos-black-italic.ttf */ = {isa = PBXFileReference; name = "._aptos-black-italic.ttf"; path = "../assets/fonts/__MACOSX/._aptos-black-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6A2762600AD042A49C9D93A2 /* ._aptos-black.ttf */ = {isa = PBXFileReference; name = "._aptos-black.ttf"; path = "../assets/fonts/__MACOSX/._aptos-black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ECDDDA24E9A34A91A50C51E1 /* ._aptos-bold.ttf */ = {isa = PBXFileReference; name = "._aptos-bold.ttf"; path = "../assets/fonts/__MACOSX/._aptos-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3FA4866F0B994022AB111699 /* ._aptos-extrabold-italic 2.ttf */ = {isa = PBXFileReference; name = "._aptos-extrabold-italic 2.ttf"; path = "../assets/fonts/__MACOSX/._aptos-extrabold-italic 2.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E25BDF05F495456BB060FAFE /* ._aptos-extrabold-italic.ttf */ = {isa = PBXFileReference; name = "._aptos-extrabold-italic.ttf"; path = "../assets/fonts/__MACOSX/._aptos-extrabold-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2498800030F148CE83847AAC /* ._aptos-extrabold.ttf */ = {isa = PBXFileReference; name = "._aptos-extrabold.ttf"; path = "../assets/fonts/__MACOSX/._aptos-extrabold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		567558958E054AB798C90209 /* ._aptos-italic.ttf */ = {isa = PBXFileReference; name = "._aptos-italic.ttf"; path = "../assets/fonts/__MACOSX/._aptos-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55ADA8705C024F41BFA5B9B1 /* ._aptos-light-italic.ttf */ = {isa = PBXFileReference; name = "._aptos-light-italic.ttf"; path = "../assets/fonts/__MACOSX/._aptos-light-italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A88D0B2B4E69434192C9B0D9 /* ._aptos-light.ttf */ = {isa = PBXFileReference; name = "._aptos-light.ttf"; path = "../assets/fonts/__MACOSX/._aptos-light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A10BDC9B03FB4774981B58C2 /* ._aptos-semibold.ttf */ = {isa = PBXFileReference; name = "._aptos-semibold.ttf"; path = "../assets/fonts/__MACOSX/._aptos-semibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2F02B6CD0D83466FACAB8519 /* ._aptos.ttf */ = {isa = PBXFileReference; name = "._aptos.ttf"; path = "../assets/fonts/__MACOSX/._aptos.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +166,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				4B05F3FC919A4F2E8B67D028 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +192,36 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		4B05F3FC919A4F2E8B67D028 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				00A9AB2D9BFF425BAF07D638 /* aptos-black-italic.ttf */,
+				9AA87671BF9D474596F8D7DC /* aptos-black.ttf */,
+				D8F3855D12C94048B4410791 /* aptos-bold.ttf */,
+				50139E320A5244B59A05723B /* aptos-extrabold-italic 2.ttf */,
+				1852D5BB96684D7F87B9752F /* aptos-extrabold-italic.ttf */,
+				1BB3B4A56DB94D87A7B2E657 /* aptos-extrabold.ttf */,
+				2B04F31F879441698F2FF22E /* aptos-italic.ttf */,
+				BF84F89A3E0042EE9E977169 /* aptos-light-italic.ttf */,
+				EA4F26EB83264043885096E8 /* aptos-light.ttf */,
+				E1F75E3D5FC2471CBF8B6282 /* aptos-semibold.ttf */,
+				628DBB7EA1E14F2C9C6195DD /* aptos.ttf */,
+				8EAACBA5CEF844ED98D0718A /* ._aptos-black-italic.ttf */,
+				6A2762600AD042A49C9D93A2 /* ._aptos-black.ttf */,
+				ECDDDA24E9A34A91A50C51E1 /* ._aptos-bold.ttf */,
+				3FA4866F0B994022AB111699 /* ._aptos-extrabold-italic 2.ttf */,
+				E25BDF05F495456BB060FAFE /* ._aptos-extrabold-italic.ttf */,
+				2498800030F148CE83847AAC /* ._aptos-extrabold.ttf */,
+				567558958E054AB798C90209 /* ._aptos-italic.ttf */,
+				55ADA8705C024F41BFA5B9B1 /* ._aptos-light-italic.ttf */,
+				A88D0B2B4E69434192C9B0D9 /* ._aptos-light.ttf */,
+				A10BDC9B03FB4774981B58C2 /* ._aptos-semibold.ttf */,
+				2F02B6CD0D83466FACAB8519 /* ._aptos.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +319,28 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				B64C52A83A044C31A3475A5E /* aptos-black-italic.ttf in Resources */,
+				80B8996A4BFE4D02B994DA03 /* aptos-black.ttf in Resources */,
+				A1BB09D437714059A6038DCF /* aptos-bold.ttf in Resources */,
+				17F4F8A9C1F34435A3FD0AD8 /* aptos-extrabold-italic 2.ttf in Resources */,
+				8E48D07A8CF244F6B0752F34 /* aptos-extrabold-italic.ttf in Resources */,
+				F710768F96A049EFA2F85C89 /* aptos-extrabold.ttf in Resources */,
+				416E0A73FF9641509A300DF4 /* aptos-italic.ttf in Resources */,
+				B365147A44F145438DBCCAB8 /* aptos-light-italic.ttf in Resources */,
+				428267859E0F4BA5B5A4E6F1 /* aptos-light.ttf in Resources */,
+				937BB75F3E454BA1BC305AB5 /* aptos-semibold.ttf in Resources */,
+				3B31AF8A87A84247B209D040 /* aptos.ttf in Resources */,
+				ABC801DEBED7466A92468F6C /* ._aptos-black-italic.ttf in Resources */,
+				8FD21019C21F40F4B3307810 /* ._aptos-black.ttf in Resources */,
+				ADBCD2583B674277BF89E2DE /* ._aptos-bold.ttf in Resources */,
+				D04734B303334ABEB3997D8C /* ._aptos-extrabold-italic 2.ttf in Resources */,
+				5A1FE2D66DF9410C86FAF48C /* ._aptos-extrabold-italic.ttf in Resources */,
+				1FB1D3ADC3A14D549C4087CC /* ._aptos-extrabold.ttf in Resources */,
+				D3A4481585CD479E89423FA5 /* ._aptos-italic.ttf in Resources */,
+				D7F6520A24294B61BF0A045C /* ._aptos-light-italic.ttf in Resources */,
+				501BCF976392404D821CB056 /* ._aptos-light.ttf in Resources */,
+				00987CD6491440F58E6A88FC /* ._aptos-semibold.ttf in Resources */,
+				A594CA7ACAE24AAE8735D6F0 /* ._aptos.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

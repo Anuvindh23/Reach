@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/aptos-black-italic.ttf",
+      "sha1": "6e5252fe0e9ddd8863859bd9704ac5d6f743fa00"
+    },
+    {
+      "path": "assets/fonts/aptos-black.ttf",
+      "sha1": "3f1d9391899c3ab3efb9e2c892f5cfa56050e946"
+    },
+    {
+      "path": "assets/fonts/aptos-bold.ttf",
+      "sha1": "dfdd907ccc1b9384670da8afb2e3e7c80f406ff0"
+    },
+    {
+      "path": "assets/fonts/aptos-extrabold-italic 2.ttf",
+      "sha1": "143a6557aebf2c1ed011de77a5b084d055b490d7"
+    },
+    {
+      "path": "assets/fonts/aptos-extrabold-italic.ttf",
+      "sha1": "143a6557aebf2c1ed011de77a5b084d055b490d7"
+    },
+    {
+      "path": "assets/fonts/aptos-extrabold.ttf",
+      "sha1": "db49bf0af713850442aec0209b5e2d1bab010635"
+    },
+    {
+      "path": "assets/fonts/aptos-italic.ttf",
+      "sha1": "7fd2319ccc6afa1fc708e25f8c73c6ad1cf80d33"
+    },
+    {
+      "path": "assets/fonts/aptos-light-italic.ttf",
+      "sha1": "356cd806f24f6e9203e2738614cc9389df37b716"
+    },
+    {
+      "path": "assets/fonts/aptos-light.ttf",
+      "sha1": "6388fbc6b986ac9b258d04235df5f49744b51912"
+    },
+    {
+      "path": "assets/fonts/aptos-semibold.ttf",
+      "sha1": "6c0609f06e8985d8697f175247e6746ade037e83"
+    },
+    {
+      "path": "assets/fonts/aptos.ttf",
+      "sha1": "a52fbbf47ceb6600c8f7a67dca6a36ef3428de9a"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-black-italic.ttf",
+      "sha1": "b4d9069b55751fd4811759bbc01627fd12e6eb9c"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-black.ttf",
+      "sha1": "cd18a249eea8761118ddfbe382f7d45f387212c6"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-bold.ttf",
+      "sha1": "d6818ea124b7f422b3dca0bd9935be95de9e1141"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-extrabold-italic 2.ttf",
+      "sha1": "5ea862ff16e855e295c78182a2458a99b4f5a0f8"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-extrabold-italic.ttf",
+      "sha1": "ffd690efdf67de008ecad3874b072d27887c6058"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-extrabold.ttf",
+      "sha1": "2a8dc394557b850ced63af17567c7a308e0a3215"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-italic.ttf",
+      "sha1": "e556c191ac3bd2ef4040e0465e9b82b05ff9ee74"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-light-italic.ttf",
+      "sha1": "7a39ea9b450e5d25a5bfdcc1ab474367a6c4d97d"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-light.ttf",
+      "sha1": "05e501c6b4345c8193e1c969371dbb19e610a515"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos-semibold.ttf",
+      "sha1": "685fb3b3316ebb74930ab708c6824f54c487de1f"
+    },
+    {
+      "path": "assets/fonts/__MACOSX/._aptos.ttf",
+      "sha1": "d48db0b8b16ada004007dbb65d2f85d31bd311d7"
+    }
+  ]
+}

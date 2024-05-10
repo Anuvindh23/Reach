@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -51,5 +51,30 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>aptos-black-italic.ttf</string>
+		<string>aptos-black.ttf</string>
+		<string>aptos-bold.ttf</string>
+		<string>aptos-extrabold-italic 2.ttf</string>
+		<string>aptos-extrabold-italic.ttf</string>
+		<string>aptos-extrabold.ttf</string>
+		<string>aptos-italic.ttf</string>
+		<string>aptos-light-italic.ttf</string>
+		<string>aptos-light.ttf</string>
+		<string>aptos-semibold.ttf</string>
+		<string>aptos.ttf</string>
+		<string>._aptos-black-italic.ttf</string>
+		<string>._aptos-black.ttf</string>
+		<string>._aptos-bold.ttf</string>
+		<string>._aptos-extrabold-italic 2.ttf</string>
+		<string>._aptos-extrabold-italic.ttf</string>
+		<string>._aptos-extrabold.ttf</string>
+		<string>._aptos-italic.ttf</string>
+		<string>._aptos-light-italic.ttf</string>
+		<string>._aptos-light.ttf</string>
+		<string>._aptos-semibold.ttf</string>
+		<string>._aptos.ttf</string>
+	</array>
 </dict>
 </plist>

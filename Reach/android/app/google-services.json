@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107514838954",
+    "project_id": "reach-69ead",
+    "storage_bucket": "reach-69ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107514838954:android:d6d81b6fe1db872f9ff5d3",
+        "android_client_info": {
+          "package_name": "com.reach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKpKO9JPOEiNsYkp6eDV4Vr4TIquvkfK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
